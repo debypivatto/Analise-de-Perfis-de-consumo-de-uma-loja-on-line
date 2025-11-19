@@ -1,10 +1,9 @@
 ##  Análise de Perfil de Consumo Loja online de Utilidades domesticas
 
 ## 🎯 Objetivo da Análise 
-Verificar perfil de consumo dos clientes.
+Verificar perfil de consumo dos clientes de uma loja on line de utilidades domesticas
 Prever comportamentos de clientes atraves dos seus perfis de consumo , utilizando análise exploratória de dados, segmentação por histórico de compras e testes de hipótese e desenvolver com a equipe de marketing o desenvolvimento de promoções.
   
-
 ## 📈 Principais Insights e Conclusões
 Produtos top 5 - Fazer ações específicas para esses produtos que são o carro chefe da loja, por exemplo na compra de 4 leve 1 gratuitamente.​
 Produtos que mais vendem - valor unitário entre 2 a 4 dólares, focar nesse tipo de produto que apesar de ter baixo  valor de venda agrega maior valor total, aumentando ticket médio.​
