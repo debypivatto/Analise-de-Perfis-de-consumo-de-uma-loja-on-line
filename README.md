@@ -1,4 +1,4 @@
-##  Análise de Perfil de Consumo Loja online de Utilidades domesticas
+##  🛒📊Análise de Perfil de Consumo Loja online de Utilidades domesticas
 
 ## 🎯 Objetivo da Análise 
 Verificar perfil de consumo dos clientes de uma loja on line de utilidades domesticas
